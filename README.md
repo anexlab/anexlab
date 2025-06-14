@@ -12,9 +12,9 @@
 <div>
   <div>
     <p>
-      |- 🧠 Building high-performance tools and frameworks at <a href="https://github.com/anexlab">anexlab</a>
-      |- 💡 Focused on utility-first CSS, developer tooling, and automation workflows  
-      |- 💬 Ask me about front-end architecture, custom frameworks, and productivity tools  
+      |- 🧠 Building high-performance tools and frameworks at <a href="https://github.com/anexlab">anexlab</a> <br>
+      |- 💡 Focused on utility-first CSS, developer tooling, and automation workflows  <br>
+      |- 💬 Ask me about front-end architecture, custom frameworks, and productivity tools <br> 
     </p>
     <h4>🌐 You can reach me on</h4>
     <div display="flex">
