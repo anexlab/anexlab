@@ -7,14 +7,26 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&Center=true&duration=3500&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Anex!;Welcome+to+anexlab!" /></a>
 </h1>
 
-<!--- Some basics information -->
-<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="380" alt="a cool       gif" align="right" />
+<!-- About -->
+<!-- <img 
+  src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" 
+  width="380" 
+  alt="a cool gif" 
+  align="right" 
+/> -->
 <div>
-  <div>
+  <p align="center">
+    Welcome to Anexlab — an independent development lab dedicated to engineering high-performance tools, modern frameworks, and streamlined developer workflows. Anexlab focuses on delivering robust solutions for the web, including utility-first CSS systems, intelligent code tooling, and automation utilities designed to optimize productivity. Flagship projects such as <a href="https://github.com/anexlab/alencss-toolkit">Alencss Toolkit</a>, a context-aware autocomplete extension for HTML and React, and <a href="https://github.com/anexlab/structgentor">StructGentor</a>, a command-line tool for project scaffolding, exemplify a commitment to clean architecture, efficiency, and developer-centric design. Each product is crafted with a clear vision: build fast, build smart, and build beautifully. Explore the open-source ecosystem and tools developed to accelerate and enhance modern development practices.
+  </p>
+</div>
+<br>
+
+
+<!--- Some basics information -->
+<div align="center">
     <p>
-      |- 🧠 Building high-performance tools and frameworks at <a href="https://github.com/anexlab">anexlab</a> <br>
-      |- 💡 Focused on utility-first CSS, developer tooling, and automation workflows  <br>
-      |- 💬 Ask me about front-end architecture, custom frameworks, and productivity tools <br> 
+      Focused on utility-first CSS, developer tooling, automation workflows etc. <br>
+      Ask me about front-end architecture, custom frameworks, and productivity tools <br> 
     </p>
     <h4>🌐 You can reach me on</h4>
     <div display="flex">
@@ -38,14 +50,6 @@
     </div>
   </div>
 </div>
-
-<!-- About -->
-<div>
-  <p>
-    Welcome to Anexlab — an independent development lab dedicated to engineering high-performance tools, modern frameworks, and streamlined developer workflows. Anexlab focuses on delivering robust solutions for the web, including utility-first CSS systems, intelligent code tooling, and automation utilities designed to optimize productivity. Flagship projects such as Alencss Toolkit, a context-aware autocomplete extension for HTML and React, and StructGentor, a command-line tool for project scaffolding, exemplify a commitment to clean architecture, efficiency, and developer-centric design. Each product is crafted with a clear vision: build fast, build smart, and build beautifully. Explore the open-source ecosystem and tools developed to accelerate and enhance modern development practices.
-  </p>
-</div>
-<br>
 
 <!-- Skills -->
 <h2 align="center">
