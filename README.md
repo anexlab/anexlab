@@ -4,7 +4,7 @@
 
 <!-- Auto typing animation -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&Center=true&duration=3500&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Anex!;Welcome+to+anexlab!" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&Center=true&duration=3500&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;Welcome+to+anexlab!" /></a>
 </h1>
 
 <!-- About -->
